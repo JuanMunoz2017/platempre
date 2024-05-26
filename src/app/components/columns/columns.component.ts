@@ -1,7 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { DecimalPipe } from '@angular/common';
-import { Toast } from 'ngx-toastr';
 
 @Component({
   selector: 'app-columns',
